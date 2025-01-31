@@ -57,6 +57,8 @@
 
     echo "</ol>" . "<br>";
 
+    echo "<h3> Soal 3 </h3>";
+
     $Will = array(
         array("Name" => "Will Byers",
             "Age" => "12",
